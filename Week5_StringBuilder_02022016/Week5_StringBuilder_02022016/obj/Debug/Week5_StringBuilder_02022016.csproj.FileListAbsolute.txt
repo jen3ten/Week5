@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week5_StringBuilder_02022016\Week5_StringBuilder_02022016\bin\Debug\Week5_StringBuilder_02022016.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week5_StringBuilder_02022016\Week5_StringBuilder_02022016\bin\Debug\Week5_StringBuilder_02022016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week5_StringBuilder_02022016\Week5_StringBuilder_02022016\bin\Debug\Week5_StringBuilder_02022016.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week5_StringBuilder_02022016\Week5_StringBuilder_02022016\obj\Debug\Week5_StringBuilder_02022016.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week5_StringBuilder_02022016\Week5_StringBuilder_02022016\obj\Debug\Week5_StringBuilder_02022016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week5_StringBuilder_02022016\Week5_StringBuilder_02022016\obj\Debug\Week5_StringBuilder_02022016.pdb
